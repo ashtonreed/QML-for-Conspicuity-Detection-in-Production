@@ -43,11 +43,10 @@ Team Member 2:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+This project focused on a series of PennyLane exercises and tutorials to become more experienced with machine learning. The PennyLane codebook exercises can be found [here](https://github.com/ashtonreed/QML-for-Conspicuity-Detection-in-Production/blob/main/Task1_Pennylane_Codebook.ipynb) while the Variational Classifier tutorial can be found [here](https://github.com/ashtonreed/QML-for-Conspicuity-Detection-in-Production/blob/main/Task2_Variational_Classifier.ipynb) and the Quanvolutional Neural Network tutorial [here](https://github.com/ashtonreed/QML-for-Conspicuity-Detection-in-Production/blob/main/Task3_Quanvolutional_Neural_Network.ipynb).
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+The presentation deck can be found in this repo as "Womanium_qml_final_project.pdf" and is also linked [here](https://github.com/ashtonreed/QML-for-Conspicuity-Detection-in-Production/blob/main/Womanium_qml_final_project.pdf)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
